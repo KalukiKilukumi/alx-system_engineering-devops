@@ -1,2 +1,2 @@
 #!/bin/bash
-grep root /etc/passwrd --after-context =3
+grep root /etc/passwrd --after-context = 3
